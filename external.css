@@ -1,0 +1,43 @@
+h1{
+    color:crimson;
+    background-color: black;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width:300px;
+}
+/* id name */
+#a{
+    color:#ee1818;
+    background-color: rgb(29, 213, 207);
+    font-family: 'Courier New';
+    font-size:44px ;
+}
+.b{
+    color:rgb(10, 210, 210);
+    /* background-color: deeppink; */
+    background-image: linear-gradient(120deg,red,blue,green,yellow,pink);
+    font-size: 55px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /* letter-spacing: 20px; */
+    /* word-spacing: 120px; */
+    line-height: 120px;
+}
+.c{
+    /* Box model */
+    padding:50px;
+    margin:80px;
+    border-radius: 140px;
+    border-style:outset;
+    border-width: 12px;
+    border-color: cadetblue;
+ /* Box shadow */
+ box-shadow: 10px 10px 10px 10px black;
+}
+body{
+    /* background-color: cornsilk; */
+    background-image: url("https://images.pexels.com/photos/13105047/pexels-photo-13105047.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
